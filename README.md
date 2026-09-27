@@ -35,17 +35,6 @@ laptop.
 - **Calculator** - safe expression evaluation for quick doubts.
 - Both a Tkinter desktop window and a `--cli` terminal mode.
 
-## Why this fits the challenge
-
-- Optimized for / running on a Snapdragon-powered HP PC (Snapdragon X,
-  Hexagon NPU).
-- Built around a model sourced from Qualcomm AI Hub, run through GenieX
-  on the Hexagon NPU rather than plain CPU inference.
-- Genuinely offline and accessible - no subscription, no data plan
-  required after setup, works for students with limited or expensive
-  connectivity.
-- Everything else (search, flashcards, summarizer, calculator) is real,
-  runnable, tested code, not just LLM prompt-wrapping - see `tests/`.
 
 ## Getting it running
 
@@ -119,7 +108,3 @@ tests/
   was verified against Qualcomm's own GenieX quickstart docs. It falls
   back to a CPU stub gracefully if GenieX or the model isn't set up yet,
   so the rest of the app keeps working either way.
-
-## Author
-
-Sauban Alam, B.S. student, IIT Jodhpur.
