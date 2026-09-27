@@ -1,0 +1,9 @@
+Organic Chemistry - Functional Groups Recap
+
+A functional group is defined as a specific group of atoms within a molecule that is responsible for the characteristic chemical reactions of that molecule. Alcohols contain a hydroxyl group attached to a carbon atom.
+
+Nucleophilic substitution refers to a reaction mechanism where an electron-rich nucleophile attacks an electron-poor carbon, displacing a leaving group. SN1 and SN2 are the two main pathways, differing in whether the rate depends on one or two reactants.
+
+An SN2 reaction is a single concerted step where bond breaking and bond forming happen at the same time, leading to inversion of stereochemistry at the reaction center. An SN1 reaction goes through a carbocation intermediate and usually gives a mix of stereochemistry.
+
+Aromaticity means a cyclic, planar molecule with a ring of resonance bonds that shows more stability than would be expected from conjugation alone, following Huckel's rule of 4n+2 pi electrons.

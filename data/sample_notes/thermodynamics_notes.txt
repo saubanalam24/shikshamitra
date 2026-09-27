@@ -1,0 +1,9 @@
+Thermodynamics Unit 2 - Entropy and the Second Law
+
+The second law of thermodynamics is defined as the principle that the total entropy of an isolated system can never decrease over time, it can only stay the same or increase. Entropy refers to a measure of the disorder or randomness of a system. In practical terms this means no heat engine can convert all of the input heat into useful work, some fraction is always lost.
+
+A reversible process is defined as an idealized process that can be reversed without leaving any trace on the surroundings. Real processes are never truly reversible because of friction, turbulence, and other dissipative effects.
+
+Carnot efficiency is the maximum possible efficiency of a heat engine operating between two given temperatures. It depends only on the temperature of the hot and cold reservoirs, not on the working substance used.
+
+Enthalpy is a thermodynamic quantity equal to the internal energy of a system plus the product of its pressure and volume. It is often more convenient to use than internal energy alone when dealing with processes at constant pressure.

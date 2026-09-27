@@ -1,0 +1,7 @@
+# core, no GPU/NPU needed, works on plain CPU for dev
+pytest>=7.0
+
+# on-device inference, only needed on the actual Snapdragon (Windows ARM64) box.
+# NOT installed by this file on purpose (ARM64-only, not needed for the
+# tests/dev-stub path) - see models/README.md.
+# pip install geniex
